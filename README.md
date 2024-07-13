@@ -1,4 +1,4 @@
-# API Portal CorpTeams
+# Front-end Portal CorpTeams
 
 ## Sobre o Projeto
 
